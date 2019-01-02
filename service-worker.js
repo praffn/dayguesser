@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dayguesser/precache-manifest.bfd00cdfa9aeafe9665f01b1aa469bf8.js"
+  "/dayguesser/precache-manifest.a110d04d764787180c9dd9f77d3cdfd7.js"
 );
 
 workbox.clientsClaim();

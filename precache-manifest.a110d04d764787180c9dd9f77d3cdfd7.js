@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/dayguesser/static/css/main.5d4bf1f6.chunk.css"
   },
   {
-    "revision": "62d5f7125ce9f5c1f52e2d439a5e9041",
+    "revision": "515588c6d91ec70d6450d142cb2f49a1",
     "url": "/dayguesser/index.html"
   }
 ];
